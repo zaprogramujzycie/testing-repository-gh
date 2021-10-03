@@ -1,2 +1,2 @@
 Feature commit new 1.1
-Feature commit new 2
+Feature commit new 2.2
