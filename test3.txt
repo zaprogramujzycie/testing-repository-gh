@@ -1,0 +1,5 @@
+Commit to squash 1
+Commit to squash 2
+Commit to squash 3
+Commit to squash 4
+Commit to squash 5
